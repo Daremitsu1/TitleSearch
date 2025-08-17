@@ -1,0 +1,51 @@
+[{
+  "_id": {
+    "$oid": "68a1abb30eb0e290c9fe6fea"
+  },
+  "Job_Name": "FL12011BRW00120250817",
+  "Website_Type": "Broward Property Appraiser",
+  "Doc_Name": "514117100020",
+  "Property_Owners": "MCC KINDER LLC",
+  "Address": "10000 JOHNSON STREET PEMBROKE PINES, 33024",
+  "Year_Built": "1999",
+  "Deputy_Appraiser": "Commercial Department",
+  "Property_Appraiser_Number": "954-357-6835",
+  "Property_Image_Link": "https://web.bcpa.net/Photographs/514117/10/0020/PUBLIC%20PHOTO-20160422083947.jpg",
+  "PDF_Folder": "C:/Users/USER/Documents/Python Scripts/smart_doc_intake/results/FL/Broward/Appraiser/FL12011BRW00120250817"
+},
+{
+  "_id": {
+    "$oid": "68a1ac080eb0e290c9fe6fed"
+  },
+  "Job_Name": "FL12011BRW00320250817",
+  "Website_Type": "Broward Revenue Collection",
+  "Doc_Name": "514117100020-2024-T1",
+  "Amount_Due": "0.00",
+  "Amount_Paid": "$84.77",
+  "Payment_Date": "11/04/2024",
+  "Status": "Receipt #WWW-24-00017257"
+},
+{
+  "_id": {
+    "$oid": "68a1ac080eb0e290c9fe6fee"
+  },
+  "Job_Name": "FL12011BRW00320250817",
+  "Website_Type": "Broward Revenue Collection",
+  "Doc_Name": "514117100020-2023-T2",
+  "Amount_Due": "0.00",
+  "Amount_Paid": "$69.41",
+  "Payment_Date": "11/06/2023",
+  "Status": "Receipt #WWW-23-00026389"
+},
+{
+  "_id": {
+    "$oid": "68a1ac080eb0e290c9fe6fef"
+  },
+  "Job_Name": "FL12011BRW00320250817",
+  "Website_Type": "Broward Revenue Collection",
+  "Doc_Name": "514117100020-2022-T3",
+  "Amount_Due": "0.00",
+  "Amount_Paid": "$69.41",
+  "Payment_Date": "11/21/2022",
+  "Status": "Receipt #WWW-22-00077402"
+}]
